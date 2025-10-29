@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /cgi-bin/
+Disallow: /search
+Disallow: /?s=
+Disallow: /cart/
+Disallow: /checkout/
+Disallow: /account/
+Disallow: /login/
+Disallow: /register/
+Disallow: /wp-json/
+Disallow: /xmlrpc.php
+
+User-agent: *
+Allow: /
+Sitemap: https://satilikhesap.com/sitemap.xml
